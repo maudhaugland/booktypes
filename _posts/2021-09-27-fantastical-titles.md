@@ -15,7 +15,9 @@ tags:
 
 ## Heading
 
-My edition was published by Virago in 2015, as part of their modern classics series. The beautiful cover was artfully designed by XXX. It really does look like the title of the book, in this case *Rebecca*, is integrated in the overall design, and you almost have to look a bit closer to see that it is in fact the title and not just a part of the decoration. 
+My edition was published by Virago in 2015, as part of their modern classics series. The beautiful cover was artfully designed by XXX. They say that one should never judge a book by its cover, but I have to admit that the cover was one of the main reasons why I decided to buy this book. Luckily I really enjoyed the story on the inside too. 
+
+It really does look like the title of the book, in this case *Rebecca*, is integrated in the overall design, and you almost have to look a bit closer to see that it is in fact the title and not just a part of the decoration. 
 
 Second - description 
 
