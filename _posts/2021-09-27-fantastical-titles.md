@@ -2,7 +2,9 @@
 layout: post
 title: "Rebecca "
 date: 2021-09-30T12:26:17.337Z
+image: ../uploads/john-towner-pdkovuxykxu-unsplash.jpg
 title_color: "#ffffff"
+caption: "Photo: John Towner (2016)"
 comments: false
 tags:
   - Books
