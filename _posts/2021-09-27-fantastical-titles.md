@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Fantastical Titles
-date: 2021-09-27T11:18:56.918Z
+title: "Rebecca "
+date: 2021-09-30T12:26:17.337Z
 title_color: "#ffffff"
 comments: false
 tags:
@@ -12,16 +12,18 @@ Introduction paragraph - will be shown on home page
 
 Heading
 
-First paragraph
+First paragraph - who designed and published it
 
-Second
+Second - description 
+
+Para - typical of the genre
 
 ![]()
 
 Heading
 
-Para
+Para - other books by daphe du maurier design
 
-Para
+Para - other editions of Rebecca through history 
 
 Conclusion
