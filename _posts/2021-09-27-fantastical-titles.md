@@ -21,7 +21,7 @@ Second - description
 
 Para - typical of the genre
 
-![]()
+![The book Rebecca by Daphne du Maurier with a black cover decorated with red flowers and golden details.](../uploads/img_2384.jpg)
 
 Heading
 
