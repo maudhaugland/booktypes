@@ -11,7 +11,7 @@ tags:
   - Publishing
   - Design
 ---
-The title of a book can tell you a lot of things about the content between the covers, but have you thought about how important the design of the words and letters actually matter? You will most probably judge a book by its typography as well as its overall cover design. In fact, I would say it's a very important factor in many cases. It can be bold, it can be beautiful, it can be weird and it can be almost invisible. 
+**The title of a book can tell you a lot** of things about the content between the covers, but have you thought about how important the design of the words and letters actually matter? You will most probably judge a book by its typography as well as its overall cover design. In fact, I would say it's a very important factor in many cases. It can be bold, it can be beautiful, it can be weird and it can be almost invisible. 
 
 Heading
 
