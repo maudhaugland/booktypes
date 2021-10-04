@@ -11,11 +11,11 @@ tags:
   - Publishing
   - Design
 ---
-**The title of a book can tell you a lot** of things about the content between the covers, but have you thought about how important the design of the words and letters actually matter? You will most probably judge a book by its typography as well as its overall cover design. In fact, I would say it's a very important factor in many cases. It can be bold, it can be beautiful, it can be weird and it can be almost invisible. 
+**The title of a book can tell you a lot** about the content between the covers, but have you thought about how important the design of the words and letters actually matter? You will most probably judge a book by its typography as well as its overall cover design. In fact, I would say it's a very important factor in many cases. It can be bold, it can be beautiful, it can be weird and it can be almost invisible. 
 
 ## Heading
 
-My edition was published by Virago in 2015, as part of their modern classics series. The beautiful cover was artfully designed by XXX. They say that one should never judge a book by its cover, but I have to admit that the cover was one of the main reasons why I decided to buy this book. Fortunately, I enjoyed the story on the inside too. 
+My edition was published by Virago in 2015, as part of their modern classics series. The beautiful cover was artfully designed by XXX. They say that one should never judge a book by its cover, but I have to admit that the cover design was one of the main reasons why I decided to buy this book. Fortunately, I enjoyed the story on the inside too. 
 
 It really looks like the title of the book, in this case *Rebecca*, is integrated in the overall design. You almost have to look a bit closer to see that it is in fact the title and not just a part of the decoration. This is actually quite clever as the character that gave her name to the title is not actually present in the book, just a ghost haunting every page and scene. In a way, she is a part of the background, almost invisible until you notice her and then you can never unsee or forget her again. Just like the title. 
 
@@ -31,7 +31,7 @@ This is not the first nor the last edition of Rebecca. As a classic first publis
 
 A newer edition of Rebecca, also published by Virago like my edition, has a title with much stronger gothic associations.  
 
-Heading
+### Du Maurier's collection
 
 Para - other books by daphe du maurier design
 
