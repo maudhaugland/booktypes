@@ -29,7 +29,9 @@ Para - typical of the genre - classic - gothic
 
 ### Rebecca through history
 
-This is not the first nor the last edition of Rebecca. As a classic first published in 1938 by Gollancz, it has gotten renewed covers and editions several times up through the decades. The very first edition had a lemon yellow cover with pinkish purple title in a very high contrast, blocky, and a bit condenced font with serifs. It does have a vintage feel to it, especially with the high contrast, and it was probably a popular font at the time. Interestingly enough, the newest edition of Rebecca published by Virago, the Netflix tie-in movie poster cover, actually uses the exact same font as the first edition. 
+This is not the first nor the last edition of Rebecca. As a classic first published in 1938 by Gollancz, it has gotten renewed covers and editions several times up through the decades. The very first edition had a lemon yellow cover with pinkish purple title in a very high contrast, blocky, and a bit condenced font with serifs. It does have a vintage feel to it, especially with the high contrast, and it was probably a popular font at the time. 
+
+Interestingly enough, the newest edition of Rebecca published by Virago, the Netflix tie-in movie poster cover, actually uses the exact same font as the first edition. 
 
 A newer edition of Rebecca, also published by Virago like my edition, has a title with much stronger gothic associations.  
 
