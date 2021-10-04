@@ -15,7 +15,7 @@ tags:
 
 ## Heading
 
-My edition was published by Virago in 2015, as part of their modern classics series. The beautiful cover was artfully designed by XXX. They say that one should never judge a book by its cover, but I have to admit that the cover was one of the main reasons why I decided to buy this book. Luckily I really enjoyed the story on the inside too. 
+My edition was published by Virago in 2015, as part of their modern classics series. The beautiful cover was artfully designed by XXX. They say that one should never judge a book by its cover, but I have to admit that the cover was one of the main reasons why I decided to buy this book. Fortunately, I enjoyed the story on the inside too. 
 
 It really looks like the title of the book, in this case *Rebecca*, is integrated in the overall design. You almost have to look a bit closer to see that it is in fact the title and not just a part of the decoration. This is actually quite clever as the character that gave her name to the title is not actually present in the book, just a ghost haunting every page and scene. In a way, she is a part of the background, almost invisible until you notice her and then you can never unsee or forget her again. Just like the title. 
 
@@ -29,6 +29,10 @@ Heading
 
 Para - other books by daphe du maurier design
 
-Para - other editions of Rebecca through history 
+### Rebecca through history
+
+This is not the first nor last edition of Rebecca, however. As a classic first published in 1938 by Gollancz, it has gotten renewed covers and editions several times up through the decades. The very first edition had a lemon yellow cover with pinkish purple title in a very high contrast, blocky, and a bit condenced font with serifs. It does have a vintage feel to it, especially with the high contrast, and it was probably a popular font at the time.
+
+ 
 
 Conclusion
