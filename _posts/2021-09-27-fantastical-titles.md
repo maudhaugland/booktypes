@@ -19,7 +19,9 @@ My edition was published by Virago in 2015, as part of their modern classics ser
 
 It really looks like the title of the book, in this case *Rebecca*, is integrated in the overall design. You almost have to look a bit closer to see that it is in fact the title and not just a part of the decoration. This is actually quite clever as the character that gave her name to the title is not actually present in the book, just a ghost haunting every page and scene. In a way, she is a part of the background, almost invisible until you notice her and then you can never unsee or forget her again. Just like the title. 
 
-Second - description - swirly, no sharp edges, circles, alt henger sammen, handwritten
+Second - description - swirly, no sharp edges, circles, alt henger sammen, sans serif, timid, low contrast, 
+
+Handwritten - old fashioned, associations to letterwriting, calligraphy 
 
 ### A Gothic modern classic
 
