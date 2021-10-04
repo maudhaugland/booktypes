@@ -21,6 +21,8 @@ It really looks like the title of the book, in this case *Rebecca*, is integrate
 
 Second - description - swirly, no sharp edges, circles, alt henger sammen, 
 
+### A Gothic modern classic
+
 Para - typical of the genre - classic - gothic 
 
 ![The book Rebecca by Daphne du Maurier with a black cover decorated with red flowers and golden details.](../uploads/img_2384.jpg "Du Maurier's most famous novel Rebecca, with a cover designed by XXX")
