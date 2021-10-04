@@ -33,6 +33,8 @@ This is not the first nor the last edition of Rebecca. As a classic first publis
 
 A newer edition of Rebecca, also published by Virago like my edition, has a title with much stronger gothic associations.  
 
+PICTURES !!!!!!!!!!!!!!!!!
+
 ### Du Maurier's collection
 
 Para - other books by daphe du maurier design
