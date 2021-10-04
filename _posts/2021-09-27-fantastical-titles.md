@@ -17,11 +17,11 @@ tags:
 
 My edition was published by Virago in 2015, as part of their modern classics series. The beautiful cover was artfully designed by XXX. They say that one should never judge a book by its cover, but I have to admit that the cover was one of the main reasons why I decided to buy this book. Luckily I really enjoyed the story on the inside too. 
 
-It really does look like the title of the book, in this case *Rebecca*, is integrated in the overall design, and you almost have to look a bit closer to see that it is in fact the title and not just a part of the decoration. 
+It really looks like the title of the book, in this case *Rebecca*, is integrated in the overall design. You almost have to look a bit closer to see that it is in fact the title and not just a part of the decoration. This is actually quite clever as the character that gave her name to the title is not actually present in the book, just a ghost haunting every page and scene. In a way, she is a part of the background, almost invisible until you notice her and then you can never unsee or forget her again. Just like the title. 
 
-Second - description 
+Second - description - swirly, no sharp edges, circles, alt henger sammen, 
 
-Para - typical of the genre
+Para - typical of the genre - classic - gothic 
 
 ![The book Rebecca by Daphne du Maurier with a black cover decorated with red flowers and golden details.](../uploads/img_2384.jpg "Du Maurier's most famous novel Rebecca, with a cover designed by XXX")
 
