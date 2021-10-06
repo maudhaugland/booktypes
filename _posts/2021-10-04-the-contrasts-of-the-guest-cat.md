@@ -14,7 +14,9 @@ tags:
   - Publishing
   - Design
 ---
-Does typography have an age? *The Guest Cat* might sound like a book for children, but the typography tells us that it is in fact a literary fiction book for adults. How can the font of a book title tell us so much? And can we trust our instincts when it comes to judging genres of books based on the typography of the title? Let's find out! 
+**Does typography have an age?** *The Guest Cat* might sound like a book for children, but the typography tells us that it is in fact a literary fiction book for adults. How can the font of a book title tell us so much? And can we trust our instincts when it comes to judging genres of books based on the typography of the title? Let's find out! 
+
+![]()
 
 Description
 
