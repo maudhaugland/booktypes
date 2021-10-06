@@ -39,8 +39,10 @@ The Gothic element means that the book probably has ghosts or something other da
 
 This is not the first nor the last edition of Rebecca. As a classic first published in 1938 by Gollancz, it has gotten renewed covers and editions several times up through the decades. The very first edition had a lemon yellow cover with pinkish purple title in a very high contrast, blocky, and a bit condenced font with serifs. It does have a vintage feel to it, especially with the high contrast, and it was probably a popular font at the time. It's the sort of font that you would imagine being in really old black and white Hollywood films or on advertisements in the 1930s. 
 
-Interestingly enough, the newest edition of Rebecca published by Virago, the Netflix tie-in movie poster cover, actually uses the exact same font as the first edition. 
+Interestingly enough, the newest edition of Rebecca published by Virago, the Netflix tie-in movie poster cover, actually uses the exact same font as the first edition. This is perhaps an attemt to give it a vintage feel as the movie poster is very bright and clearly new. You can almost see Netflix oozing out of it. 
 
 Another edition of Rebecca, also published by Virago like my edition, has a title with much stronger gothic associations as the font is closer to the original Blackletter font, also called Gothic Script. This font is also popular with rock bands nowadays, which is a big contrast to the romantic script font of my edition. 
+
+
 
 Stay tuned for more articles about great books with interesting typography!
