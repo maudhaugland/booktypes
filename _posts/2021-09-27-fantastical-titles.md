@@ -13,7 +13,9 @@ tags:
 ---
 **The title of a book can tell you a lot** about the content between the covers, but have you thought about how important the design of the words and letters actually matter? You will most probably judge a book by its typography as well as its overall cover design. In fact, I would say it's a very important factor in many cases. It can be bold, it can be beautiful, it can be weird and it can be almost invisible. 
 
-![A hand holding a copy of the book Rebecca by Daphne du Maurier. It has golden swirls on a dark background with blood red flowers taking up the bottom third of the cover. Very beautiful.](../uploads/img_2384.jpg "My copy of Rebecca by Daphne du Maurier")
+
+
+![My edition of Rebecca by Daphne du Maurier](../uploads/img_2384.jpg "My copy of Rebecca by Daphne du Maurier")
 
 ## The title's typographic secrets
 
@@ -42,7 +44,5 @@ This is not the first nor the last edition of Rebecca. As a classic first publis
 Interestingly enough, the newest edition of Rebecca published by Virago, the Netflix tie-in movie poster cover, actually uses the exact same font as the first edition. This is perhaps an attemt to give it a vintage feel as the movie poster is very bright and clearly new. You can almost see Netflix oozing out of it. 
 
 Another edition of Rebecca, also published by Virago like my edition, has a title with much stronger gothic associations as the font is closer to the original Blackletter font, also called Gothic Script. This font is also popular with rock bands nowadays, which is a big contrast to the romantic script font of my edition. 
-
-
 
 Stay tuned for more articles about great books with interesting typography!
