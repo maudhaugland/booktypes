@@ -19,13 +19,15 @@ My edition was published by Virago in 2015, as part of their modern classics ser
 
 It really looks like the title of the book, in this case *Rebecca*, is integrated in the overall design. You almost have to look a bit closer to see that it is in fact the title and not just a part of the decoration. This is actually quite clever as the character that gave her name to the title is not actually present in the book, just a ghost haunting every page and scene. In a way, she is a part of the background, almost invisible until you notice her and then you can never unsee or forget her again. Just like the title. 
 
-Second - description - swirly, no sharp edges, circles, alt henger sammen, sans serif, timid, low contrast, 
+The designer chose a very swirly, romantic font for the title. It has no sharp edges whatsoever, and it looks like each letter is formed after the same oblong circle, written out using a golden ribbon. The thin lines look almost fragile and timid, like the letters would break if you aren't careful enough. The font manages to look luxurious and fancy while still being sans serif and low contrast, which is the opposite of what especially more serious high brow brands like to use. 
 
-Handwritten - old fashioned, associations to letterwriting, calligraphy 
+Perhaps the font conveys the luxury by simply looking like it is handwritten. And not written by a child, but by someone who uses calligraphy to write beautiful letters to friends and acquaintances, inviting them to grandiose dinner parties. It looks old fashioned, but rich. 
 
 ### A Gothic modern classic
 
 Para - typical of the genre - classic - gothic 
+
+I would say that the script-like typography we find on the cover of *Rebecca* is a typeface we usually associate with historical fiction and romance. The associations to letterwriting are probably a big reason for that. But is Rebecca a romantic historical novel? Well, kind of. There is a romance and it is a book from the 1930s set on a grand estate in Cornwall, but the story is much darker than the font on its own would have been able to convey. 
 
 ![The book Rebecca by Daphne du Maurier with a black cover decorated with red flowers and golden details.](../uploads/img_2384.jpg "Du Maurier's most famous novel Rebecca, with a cover designed by XXX")
 
