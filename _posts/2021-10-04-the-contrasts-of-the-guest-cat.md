@@ -16,7 +16,7 @@ Intro
 
 Description
 
-Associations - 
+Associations - quiet, calm, serious, intellectual, 
 
 Literary translated fiction - serious, high-brow, high contrast, serifs, intellectual  
 
