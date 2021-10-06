@@ -13,6 +13,8 @@ tags:
 ---
 **The title of a book can tell you a lot** about the content between the covers, but have you thought about how important the design of the words and letters actually matter? You will most probably judge a book by its typography as well as its overall cover design. In fact, I would say it's a very important factor in many cases. It can be bold, it can be beautiful, it can be weird and it can be almost invisible. 
 
+![A hand holding a copy of the book Rebecca by Daphne du Maurier. It has golden swirls on a dark background with blood red flowers taking up the bottom third of the cover. Very beautiful.](../uploads/img_2384.jpg "My copy of Rebecca by Daphne du Maurier")
+
 ## The title's typographic secrets
 
 My edition was published by Virago in 2015, as part of their modern classics series. The beautiful cover was artfully designed by XXX. They say that one should never judge a book by its cover, but I have to admit that the cover design was one of the main reasons why I decided to buy this book. Fortunately, I enjoyed the story on the inside too. 
@@ -25,13 +27,11 @@ Perhaps the font conveys the luxury by simply looking like it is handwritten. An
 
 ### A Gothic modern classic
 
-I would say that the script-like typography we find on the cover of *Rebecca* is a typeface we usually associate with historical fiction and romance. The associations to letterwriting are probably a big reason for that. But is Rebecca a romantic historical novel? Well, kind of. There is a romance and it is a book from the 1930s set on a grand estate in Cornwall, but the story is much darker than the font on its own would have been able to convey, with ghosts and murder and a little bit of madness. 
+I would say that the script-like typography we find on the cover of *Rebecca* is a typeface we usually associate with historical fiction and romance novels. The association to letterwriting is probably a big reason for that. But is Rebecca a romantic historical novel? Well, sort of. There is a romance and it is a book from the 1930s set on a grand estate in Cornwall, but the story is much darker than the font on its own would have been able to convey, with ghosts and murder and a little bit of madness. 
 
 However, when you look at the cover as a whole, the romantic font of the title does contribute to give the onlooker an eerie feeling that something is not quite right, whithout knowing exactly what. Something dark is lurking under the surface. Perhaps it's how the blood red flowers grab your attention, almost as if to distract you from the real threat that is the title in the background. 
 
-Rebecca is usually classified as a Gothic modern classic. 
-
-![The book Rebecca by Daphne du Maurier with a black cover decorated with red flowers and golden details.](../uploads/img_2384.jpg "Du Maurier's most famous novel Rebecca, with a cover designed by XXX")
+Rebecca is usually classified as a Gothic modern classic. But what does that mean? Well, it means that it was written and published after 1900 for a start. So "modern" in this context basically means in the last century, which a lot of people wouldn't think was that modern at all. I mean, if a computer is more than ten years old it is practically ancient. Luckily, books can have a much longer life span. 
 
 ### Rebecca through history
 
@@ -43,4 +43,4 @@ A newer edition of Rebecca, also published by Virago like my edition, has a titl
 
 PICTURES !!!!!!!!!!!!!!!!!
 
-Conclusion
+Stay tuned for more articles about great books with interesting typography!
