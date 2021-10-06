@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The contrasts of The Guest Cat
+title: The Contrasts of The Guest Cat
 date: 2021-10-04T21:54:47.639Z
 image: ../uploads/agathe-marty-2cdvyh6ulcs-unsplash.jpg
 title_color: "#ffffff"
@@ -18,6 +18,6 @@ Description
 
 Associations - 
 
-Literary fiction - serious, serifs, high-brow, high contrast, 
+Literary translated fiction - serious, high-brow, high contrast, serifs, intellectual  
 
-Japanese lit -
+Japanese lit - usually without serifs, ultra modern, futuristic, robots and neon lights, but also cherry blossoms and lazy cats in suburbs, Haruki Murakami,
