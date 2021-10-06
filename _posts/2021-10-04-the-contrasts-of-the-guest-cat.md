@@ -7,10 +7,12 @@ comments: false
 ---
 Intro
 
+*The Guest Cat* can sound like a book for children, but the font tells us that it is definitely not. 
+
 Description
 
-Associations
+Associations - 
 
-Literary fiction
+Literary fiction - serious, serifs, high-brow, high contrast, 
 
-Japanese lit
+Japanese lit -
