@@ -21,13 +21,15 @@ It really looks like the title of the book, in this case *Rebecca*, is integrate
 
 The designer chose a very swirly, romantic font for the title. It has no sharp edges whatsoever, and it looks like each letter is formed after the same oblong circle, written out using a golden ribbon. The thin lines look almost fragile and timid, like the letters would break if you aren't careful enough. The font manages to look luxurious and fancy while still being sans serif and low contrast, which is the opposite of what especially more serious high brow brands like to use. 
 
-Perhaps the font conveys the luxury by simply looking like it is handwritten. And not written by a child, but by someone who uses calligraphy to write beautiful letters to friends and acquaintances, inviting them to grandiose dinner parties. It looks old fashioned, but rich. 
+Perhaps the font conveys the luxury by simply looking like it is handwritten. And not written by a child, but by someone who uses calligraphy to write beautiful letters to friends and acquaintances, inviting them to grandiose dinner parties. It looks old fashioned, and rich. 
 
 ### A Gothic modern classic
 
-Para - typical of the genre - classic - gothic 
+I would say that the script-like typography we find on the cover of *Rebecca* is a typeface we usually associate with historical fiction and romance. The associations to letterwriting are probably a big reason for that. But is Rebecca a romantic historical novel? Well, kind of. There is a romance and it is a book from the 1930s set on a grand estate in Cornwall, but the story is much darker than the font on its own would have been able to convey, with ghosts and murder and a little bit of madness. 
 
-I would say that the script-like typography we find on the cover of *Rebecca* is a typeface we usually associate with historical fiction and romance. The associations to letterwriting are probably a big reason for that. But is Rebecca a romantic historical novel? Well, kind of. There is a romance and it is a book from the 1930s set on a grand estate in Cornwall, but the story is much darker than the font on its own would have been able to convey. 
+However, when you look at the cover as a whole, the romantic font of the title does contribute to give the onlooker an eerie feeling that something is not quite right, whithout knowing exactly what. Something dark is lurking under the surface. Perhaps it's how the blood red flowers grab your attention, almost as if to distract you from the real threat that is the title in the background. 
+
+Rebecca is usually classified as a Gothic modern classic. 
 
 ![The book Rebecca by Daphne du Maurier with a black cover decorated with red flowers and golden details.](../uploads/img_2384.jpg "Du Maurier's most famous novel Rebecca, with a cover designed by XXX")
 
@@ -40,9 +42,5 @@ Interestingly enough, the newest edition of Rebecca published by Virago, the Net
 A newer edition of Rebecca, also published by Virago like my edition, has a title with much stronger gothic associations.  
 
 PICTURES !!!!!!!!!!!!!!!!!
-
-### Du Maurier's collection
-
-Para - other books by daphe du maurier design
 
 Conclusion
