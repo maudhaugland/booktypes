@@ -16,11 +16,13 @@ tags:
 ---
 **Does typography have an age?** *The Guest Cat* might sound like a book for children, but the typography tells us that it is in fact a literary fiction book for adults. How can the font of a book title tell us so much? And can we trust our instincts when it comes to judging genres of books based on the typography of the title? Let's find out! 
 
-![]()
+![The Guest Cat by Takashi Hiraide](../uploads/20211007145650_img_3052.jpg)
 
-Description
+This edition of *The Guest Cat* by Takashi Hirade was published in 2014 by Picador, an imprint of Pan Macmillan. It is a short novel translated from Japanese about a quiet married couple in the suburbs of Tokyo who gets a visit from one of the cats of the neighbourhood. Does the story's premise match the typography on the cover? I think it does.  
 
 Associations - quiet, calm, serious, intellectual, 
+
+Similar to Baskerville - history of that font
 
 Literary translated fiction - serious, high-brow, high contrast, serifs, intellectual  
 
