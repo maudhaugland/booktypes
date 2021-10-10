@@ -26,7 +26,7 @@ It is not a story for children, as one might have presumed if they only *heard* 
 
 We judge a book by its cover, and its typography, during the first couple of seconds after we lay our eyes on it, and subsequently sort it into one of the boxes of genres and subgenres we have accumulated up through the years, based on our knowledge and prejudices of certain books. The designers in the publishing industry know this, and will use our judgement to their advantage. 
 
-The first words that spring to my mind when I see the cover of *The Guest Cat* are quiet, calm, serious and intellectual. Therefore I unconciously put it in the box named 'literary fiction' in my mind, and I was right. But why did I think that? Well, first of all the title is written in a high-contrast, serifed font that reminds me of Times New Roman. (A side note: the book was a *Sunday Times* bestseller. A coincidence? Probably, but not completely). The letters 
+The first words that spring to my mind when I see the cover of *The Guest Cat* are quiet, calm, serious and intellectual. Therefore I unconciously put it in the box named 'literary fiction' in my mind, and I was right. But why did I think that? Well, first of all the title is written in a high-contrast, serifed font that reminds me of Times New Roman. (A side note: the book was a *Sunday Times* bestseller. A coincidence? Probably, but not completely). The letters h
 
 Similar to Baskerville - history of that font
 
