@@ -4,15 +4,15 @@ title: About
 image: ../uploads/logo2.png
 subtitle: All about this blog
 permalink: /about/
-date: 2021-10-11T08:55:28.761Z
+date: 2021-10-11T11:09:40.973Z
 layout: page
 published: true
 tags: null
 description: null
 show: true
 ---
-They say that one should never judge a book by its cover right? Well, here at Booktypes I will judge books by the typography on their covers. Do they match the expectations of the genre? What does the typography give away about the story within? Are there some general trends, and how have they changed over time? 
+They say that one should never judge a book by its cover right? Well, here at *Booktypes* I will judge books by the typography on their covers. Do they match the expectations of the genre? What does the typography give away about the story within? Are there some general trends, and how have they changed over time? 
 
-I made the logo using Adobe InDesign, and since I am basically judging books, I thought I should incorporate a bookish element of some kind. And what is more bookish than an actual book? In the middle 
+I made the logo using Adobe InDesign, and since I am basically judging books, I thought I should incorporate a bookish element of some kind. And what is more bookish than an actual book? Even though I am technically judging the typography on the book *cover*, I thought the open book would be more recognisable as an actual book and not just a rectangle of some kind. In the middle I have put a big capital B for *Booktypes* in a sort of stamped circle. The B is set in a font called Luminari, which is high contrasted and serifed, so it looks a bit old fashioned, but because of the soft endges and round shapes it doesn't look as serious as some other fonts of similar typefaces. The dark teal colour also softens up the image from the stark contrasts of black and white which would have made it look too professional and newspaper-like. 
 
 Branding
