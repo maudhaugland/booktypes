@@ -1,5 +1,5 @@
 title: Booktypes
-description: A website with a blog
+description: "Judging book covers by their typography "
 footer_text: Copyright 2021 Maud Haugland
 header_feature_image: ../uploads/pages.jpg
 header_text: Booktypes
@@ -11,3 +11,4 @@ favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: true
 upzoom: true
+items: []
