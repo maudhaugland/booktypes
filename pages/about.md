@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About
-image: ../uploads/logo2.png
+image: ""
 subtitle: All about this blog
 permalink: /about/
 date: 2021-10-11T11:09:40.973Z
