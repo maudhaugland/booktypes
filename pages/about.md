@@ -2,7 +2,7 @@
 header_feature_image: /uploads/log.jpg
 title: About
 image: ../uploads/banner2.png
-subtitle: All about this blog
+subtitle: ""
 permalink: /about/
 date: 2021-10-11T11:09:40.973Z
 layout: page
