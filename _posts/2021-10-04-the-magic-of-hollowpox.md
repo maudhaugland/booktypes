@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The magic of Hollowpox
-date: 2021-10-04T21:50:59.537Z
+date: 2021-10-12T18:55:45.424Z
+image: ../uploads/amy-elms-4zw6b_5judi-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
@@ -10,6 +11,8 @@ tags:
   - Publishing
 ---
 Intro
+
+![]()
 
 Description
 
