@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Contrasts of The Guest Cat
-date: 2021-10-04T21:54:47.639Z
+date: 2021-10-10T21:54:47.639Z
 image: ../uploads/agathe-marty-2cdvyh6ulcs-unsplash.jpg
 title_color: "#ffffff"
 caption: 'Photo by <a
@@ -30,6 +30,8 @@ We judge a book by its cover, and its typography, during the first couple of sec
 The first words that spring to my mind when I see the cover of *The Guest Cat* are quiet, calm, serious and intellectual. Therefore I unconciously put it in the box named 'literary fiction' in my mind, and I was right. But why did I think that? Well, first of all the title is written in a high-contrast, serifed type that reminds me of Times New Roman, even though it is actually closer to Baskerville. This is a typeface that I associate with newspapers and academic texts, so it gives off the vibe of being important, serious and potentially a little bit boring. Like I would have been glad I read it even though I might not get a lot of joy and pleasure out of it. 
 
 Furthermore, the font is very subtle and calm. There are no surprising elements screaming at you or boldness about it. The title also has a lot of space around it which again contributes to the sense of being a bit serious and intellectual. That is also what literary fiction often is seen as: serious and intellectual. So in that sense it is a perfect match. Although I warn you to fall into the trap of believing all literary fiction is like that, because then you'll be surprised at what you will find. 
+
+![Photo by <a href="https://unsplash.com/@jezael?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jezael Melgoza</a> on <a href="https://unsplash.com/s/photos/japan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   ](../uploads/jezael-melgoza-laymbsj3yoe-unsplash.jpg "Photo by Jezael Melgoza found on Unsplash")
 
 ### The typefaces of Japan
 
