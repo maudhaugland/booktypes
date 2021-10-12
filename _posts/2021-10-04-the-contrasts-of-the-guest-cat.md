@@ -37,6 +37,8 @@ Furthermore, the font is very subtle and calm. There are no surprising elements 
 
 The typography of translated fiction often aims to reflect the country or area of the world it is from in some way or another as it will give the reader a sense of the book as a whole. When you think of Japan, you might think of a futuristic society full of robots, the neon signs in the bustling of Tokyo, anime and sushi. A trend for Japanese fiction is for the typography on the cover to be very sleek and modern, timid and sharp, usually with very low contrast and sans serif typefaces. 
 
-However, Japan is also cherry blossoms, lazy cats in the suburbs and ancient tea ceremonies. This is probably where our *Guest Cat* fits in. The typography can be more traditional with high contrasts and serifs, but still timid and sharp. Another example is *Lonely Castle in the Mirror* by Mizuki Tsujimura which was published by Doubleday in 2021 and designed by Anna Morrison. As you can see in the picture below, the typography of the title is quite similar to *The Guest Cat,* but even thinner and sharper, as if it's a combination of the sleek and modern style and the more traditional one.  
+However, Japan is also cherry blossoms, lazy cats in the suburbs and ancient tea ceremonies. This is probably where our *Guest Cat* fits in. The typography can be more traditional with high contrasts and serifs, but still timid and sharp. Another example is *Lonely Castle in the Mirror* by Mizuki Tsujimura which was published by Doubleday in 2021 and designed by Anna Morrison. As you can see in the picture below, the typography of the title is quite similar to *The Guest Cat,* but even thinner and sharper, as if it's a combination of the sleek and modern style and the more traditional one.
 
 ![Lonely Castle in the Mirror by Mizuki Tsujimura](../uploads/20211007145830_img_3054.jpg)
+
+Stay tuned if you want to read more articles about judging books by their typography!
