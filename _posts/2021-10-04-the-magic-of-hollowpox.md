@@ -14,7 +14,7 @@ tags:
 
 ![Hollowpox by Jessica Townsend](../uploads/20211007150203_img_3061.jpg)
 
-*Hollowpox* by Jessica Townsend is the third book about Morrigan Crow in the *Nevermoor* series, published in 2020 by Orion Children's Books. 
+*Hollowpox* by Jessica Townsend is the third book about Morrigan Crow in the *Nevermoor* t series, published in 2020 by Orion Children's Books. It is a Middle Grade fantasy novel 
 
 Description
 
