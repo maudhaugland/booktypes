@@ -1,14 +1,16 @@
 ---
 layout: post
 title: The Diary of a Bookseller
-date: 2021-10-12T21:50:59.136Z
+date: 2021-10-18T08:34:32.464Z
 title_color: "#ffffff"
 comments: false
+tags:
+  - Books
+  - Design
+  - Publishing
 ---
 Introduction
 
 Description
 
-Genre
-
-Personal, diary
+Genre - Diary, non-fiction, personal story
