@@ -14,14 +14,22 @@ tags:
 
 ![Hollowpox by Jessica Townsend](../uploads/20211007150203_img_3061.jpg)
 
+### Magic and Wunder
+
 *Hollowpox* by Jessica Townsend is the third book in the *Nevermoor* series, published in 2020 by Orion Children's Books. It is a Middle Grade fantasy novel about Morrigan Crow, a thirteen year old girl who can control Wunder, which basically is another word for magic. She lives in a wonderful city called Nevermoor (heavily inspired by London) full of magic, strange creatures and dangerous alleyways, and is a member of the powerful and secretive Wundrous Society where she learns to use her powers for good. Morrigan is the only Wundersmith known to be alive after the monstrous Ezra Squall tried to take the city a hundred years ago, and must hide her powers in order to not be hunted down and thrown out of the city by paranoid citizens. 
 
-As you get from the description, this is a book where magical elements are very prevalent. It is a very whimsical sort of magic, as the magic in Middle Grade fantasy novels often is. Therefore 
+As you get from the description, this is a book where magical elements are very prevalent. It is a very whimsical sort of magic, as the magic in Middle Grade fantasy novels often is. Therefore it makes sense to me that the typeface of the title is so swirly and 
 
-Description
+### Chaos
+
+The typography is a part of the branding of the series - recognisable 
+
+The baseline is not very straight, which means that the "L"s in "Hollowpox" start below the "O"s. This gives a slightly deranged and chaotic feeling, almost as if the letters are moving. The x-height is quite low, and not consistent. There are three "O"s in the title, and the last one is much smaller than the other two, probably to make it fit between the "P" and "X" without taking up too much space. 
+
+### Middle Grade fantasy
 
 What they want to say - associations 
 
-Middle Grade
+Middle Grade - similar to others 
 
 Fantasy
