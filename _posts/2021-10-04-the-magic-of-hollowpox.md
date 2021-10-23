@@ -24,7 +24,7 @@ As you get from the description, this is a book where magical elements are very 
 
 The typography is a part of the branding of the series - recognisable 
 
-The baseline is not very straight, which means that the "L"s in "Hollowpox" start below the "O"s. This gives a slightly deranged and chaotic feeling, almost as if the letters are moving. The x-height is quite low, and not consistent. There are three "O"s in the title, and the last one is much smaller than the other two, probably to make it fit between the "P" and "X" without taking up too much space. 
+The baseline is not very straight, which means that the "L"s in "Hollowpox" start below the "O"s. This gives a slightly deranged and chaotic feeling, almost as if the letters are moving. The x-height is quite low, and not very consistent. There are three "O"s in the title, and the last one is much smaller than the other two, probably to make it fit between the "P" and "X" without taking up too much space. This also contributes to the 
 
 Casual luxury
 
