@@ -24,7 +24,7 @@ As you get from the description, this is a book where magical elements are very 
 
 ### Chaos with a purpose
 
-The typography is a part of the branding of the series - recognisable 
+The typography is a part of the branding of the series. I'm not completely certain, but it the title's typeface might be created just for the Nevermoor books. Like the typeface of Harry Potter, the most famous book series in the world, this is recognisable as the "Morrigan Crow"-typeface, though it might not be as original and unique as Harry Potter once was. 
 
 The baseline is not very straight, which means that the "L"s in "Hollowpox" start below the "O"s. This gives a slightly deranged and chaotic feeling, almost as if the letters are moving. The x-height is quite low, and not very consistent. There are three "O"s in the title, and the last one is much smaller than the other two, probably to make it fit between the "P" and "X" without taking up too much space. This also contributes to the sense of movement and life, because the letters are adapting to each other. 
 
