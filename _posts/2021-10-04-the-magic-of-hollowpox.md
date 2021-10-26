@@ -18,7 +18,7 @@ tags:
 
 *Hollowpox* by Jessica Townsend is the third book in the *Nevermoor* series, published in 2020 by Orion Children's Books. It is a Middle Grade fantasy novel about Morrigan Crow, a thirteen year old girl who can control Wunder, which basically is another word for magic. She lives in a wonderful city called Nevermoor (heavily inspired by London) full of magic, strange creatures and dangerous alleyways, and is a member of the powerful and secretive Wundrous Society where she learns to use her powers for good. Morrigan is the only Wundersmith known to be alive after the monstrous Ezra Squall tried to take the city a hundred years ago, and must hide her powers in order to not be hunted down and thrown out of the city by paranoid citizens. 
 
-As you get from the description, this is a book where magical elements are very prevalent. It is a very whimsical sort of magic, as the magic in Middle Grade fantasy novels often is. Therefore it makes sense to me that the typeface of the title is so swirly and 
+As you get from the description, this is a book where magical elements are very prevalent. It is a very whimsical sort of magic, as the magic in Middle Grade fantasy novels often is. Therefore it makes sense to me that the typeface of the title is so swirly and, well, fun! 
 
 ### Chaos with a purpose
 
