@@ -30,15 +30,11 @@ Script, but bolder and more emphatic than ususal script
 
 The voice of the typeface is something of a weird mix I would describe as casual luxury. It's fun and elegant at the same time, which is something that sounds almost a bit contradictory, but here it's done really well in my opinion. Like, you can definetely tell it wasn't a child who drew those letters. They are too well-crafted and deliberate for that. But at the same time they are not as serious and rigid as some of the more "adult" literary fiction novels or academic texts you can find out there. 
 
-Organic
-
  
 
 ### Middle Grade fantasy
 
 The typography is a part of the branding of the series. I'm not completely certain, but it the title's typeface might be created just for the Nevermoor books. Like the typeface of Harry Potter, the most famous book series in the world, and certainly the most famous middle grade fantasy, this is recognisable as the "Morrigan Crow"-typeface, though it might not be as original and unique as Harry Potter once was, with it's lightning shaped letters. 
-
-What they want to say - associations 
 
 Middle Grade - similar to others 
 
