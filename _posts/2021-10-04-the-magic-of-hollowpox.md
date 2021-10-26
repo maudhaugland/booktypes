@@ -24,9 +24,7 @@ As you get from the description, this is a book where magical elements are very 
 
 ### Chaos with a purpose
 
-The typography is a part of the branding of the series. I'm not completely certain, but it the title's typeface might be created just for the Nevermoor books. Like the typeface of Harry Potter, the most famous book series in the world, this is recognisable as the "Morrigan Crow"-typeface, though it might not be as original and unique as Harry Potter once was, with it's lightning shaped letters. 
-
-The baseline is not very straight, which means that the "L"s in "Hollowpox" start below the "O"s. This gives a slightly deranged and chaotic feeling, almost as if the letters are moving. The x-height is quite low, and not very consistent. There are three "O"s in the title, and the last one is much smaller than the other two, probably to make it fit between the "P" and "X" without taking up too much space. This also contributes to the sense of movement and life, because the letters are adapting to each other. 
+The baseline of the title is not very straight, which means that the "L"s in "Hollowpox" start below the "O"s. This gives a slightly deranged and chaotic feeling, almost as if the letters are moving. The x-height is quite low, and not very consistent. There are three "O"s in the title, and the last one is much smaller than the other two, probably to make it fit between the "P" and "X" without taking up too much space. This also contributes to the sense of movement and life, because the letters are adapting to each other. 
 
 Script, but bolder and more emphatic than ususal script
 
@@ -38,8 +36,18 @@ Organic
 
 ### Middle Grade fantasy
 
+The typography is a part of the branding of the series. I'm not completely certain, but it the title's typeface might be created just for the Nevermoor books. Like the typeface of Harry Potter, the most famous book series in the world, and certainly the most famous middle grade fantasy, this is recognisable as the "Morrigan Crow"-typeface, though it might not be as original and unique as Harry Potter once was, with it's lightning shaped letters. 
+
 What they want to say - associations 
 
 Middle Grade - similar to others 
 
-Fantasy
+Meanwhile, adult and YA fantasy novels usually get a different kind of typography on their cover. It's usually not meant to be as fun, but rather more dramatic and a bit darker. 
+
+However, sometimes the typography of a book can confuse people when it doesn't follow the "rules" we expect from certain genres. This is waht happened to the American edition of *The House on the Cerulian Sea* by T. J. Klune. It was an adult fantasy book that was too often classified and shelved as middle grade or children's in bookshops. The cover probably had a lot to do with it, but I also noticed how they changed the typography when they published the UK edition, from playful and "handdrawn" to a much more sophisticated, high-contrasted and serious typeface. This, I think, was to give the cover a more "adult" look, to avoid the confusion about the target audience. 
+
+![The American edition of The House in the Cerulean Sea by T. J. Klune. Image from Goodreads.com](../uploads/45047384.jpg)
+
+![The UK edition of The House in the Cerulean Sea. Image from Goodreads.com](../uploads/58506799.jpg)
+
+Can you see why some people thought it was a middle grade fantasy? Even though the UK edition is perhaps more "adult" than the American one, I still prefer the American version aestethically speaking.
