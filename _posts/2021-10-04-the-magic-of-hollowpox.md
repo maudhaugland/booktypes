@@ -20,7 +20,7 @@ tags:
 
 As you get from the description, this is a book where magical elements are very prevalent. It is a very whimsical sort of magic, as the magic in Middle Grade fantasy novels often is. Therefore it makes sense to me that the typeface of the title is so swirly and 
 
-### Chaos
+### Chaos with a purpose
 
 The typography is a part of the branding of the series - recognisable 
 
