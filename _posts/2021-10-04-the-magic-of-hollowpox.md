@@ -50,4 +50,6 @@ However, sometimes the typography of a book can confuse people when it doesn't f
 
 ![The UK edition of The House in the Cerulean Sea. Image from Goodreads.com](../uploads/58506799.jpg)
 
-Can you see why some people thought it was a middle grade fantasy? Even though the UK edition is perhaps more "adult" than the American one, I still prefer the American version aestethically speaking.
+Can you see why some people thought it was a middle grade fantasy? Even though the UK edition is perhaps more "adult" than the American one, I still prefer the American version aestethically speaking. 
+
+If you would like to see more articles from me where I judge books by their typography, stay tuned!
