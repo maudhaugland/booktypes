@@ -20,17 +20,21 @@ tags:
 
 As you get from the description, this is a book where magical elements are very prevalent. It is a very whimsical sort of magic, as the magic in Middle Grade fantasy novels often is. That's why it makes sense to me that the typeface of the title is so swirly and, well, fun! 
 
+
+
 ### Chaos with a purpose
 
 The typography is a part of the branding of the series - recognisable 
 
 The baseline is not very straight, which means that the "L"s in "Hollowpox" start below the "O"s. This gives a slightly deranged and chaotic feeling, almost as if the letters are moving. The x-height is quite low, and not very consistent. There are three "O"s in the title, and the last one is much smaller than the other two, probably to make it fit between the "P" and "X" without taking up too much space. This also contributes to the sense of movement and life, because the letters are adapting to each other. 
 
-Casual luxury
+Script, but bolder and more emphatic than ususal script
+
+The voice of the typeface is something of a weird mix I would describe as casual luxury. It's fun and elegant at the same time, which is something that sounds almost a bit contradictory, but here it's done really well in my opinion. Like, you can definetely tell it wasn't a child who drew those letters. They are too well-crafted and deliberate for that. But at the same time they are not as serious and rigid as some of the more "adult" literary fiction novels or academic texts you can find out there. 
 
 Organic
 
-Script, but bolder and more emphatic than ususal script 
+ 
 
 ### Middle Grade fantasy
 
