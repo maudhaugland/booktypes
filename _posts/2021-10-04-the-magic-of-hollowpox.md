@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Magic of Hollowpox
-date: 2021-10-23T14:46:30.175Z
+date: 2021-10-26T16:24:46.975Z
 image: ../uploads/amy-elms-4zw6b_5judi-unsplash.jpg
 title_color: "#ffffff"
 comments: false
@@ -18,13 +18,13 @@ tags:
 
 *Hollowpox* by Jessica Townsend is the third book in the *Nevermoor* series, published in 2020 by Orion Children's Books. It is a Middle Grade fantasy novel about Morrigan Crow, a thirteen year old girl who can control Wunder, which basically is another word for magic. She lives in a wonderful city called Nevermoor (heavily inspired by London) full of magic, strange creatures and dangerous alleyways, and is a member of the powerful and secretive Wundrous Society where she learns to use her powers for good. Morrigan is the only Wundersmith known to be alive after the monstrous Ezra Squall tried to take the city a hundred years ago, and must hide her powers in order to not be hunted down and thrown out of the city by paranoid citizens. 
 
-As you get from the description, this is a book where magical elements are very prevalent. It is a very whimsical sort of magic, as the magic in Middle Grade fantasy novels often is. Therefore it makes sense to me that the typeface of the title is so swirly and, well, fun! 
+As you get from the description, this is a book where magical elements are very prevalent. It is a very whimsical sort of magic, as the magic in Middle Grade fantasy novels often is. That's why it makes sense to me that the typeface of the title is so swirly and, well, fun! 
 
 ### Chaos with a purpose
 
 The typography is a part of the branding of the series - recognisable 
 
-The baseline is not very straight, which means that the "L"s in "Hollowpox" start below the "O"s. This gives a slightly deranged and chaotic feeling, almost as if the letters are moving. The x-height is quite low, and not very consistent. There are three "O"s in the title, and the last one is much smaller than the other two, probably to make it fit between the "P" and "X" without taking up too much space. This also contributes to the 
+The baseline is not very straight, which means that the "L"s in "Hollowpox" start below the "O"s. This gives a slightly deranged and chaotic feeling, almost as if the letters are moving. The x-height is quite low, and not very consistent. There are three "O"s in the title, and the last one is much smaller than the other two, probably to make it fit between the "P" and "X" without taking up too much space. This also contributes to the sense of movement and life, because the letters are adapting to each other. 
 
 Casual luxury
 
