@@ -23,3 +23,5 @@ Bold and unexpected - stand out among the swirly Sript typefaces.
 ## Historical fiction
 
 Regency era - Jane Austen
+
+Modern twist - feminist?
