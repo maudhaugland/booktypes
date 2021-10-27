@@ -26,9 +26,9 @@ As you get from the description, this is a book where magical elements are very 
 
 The baseline of the title is not very straight, which means that the "L"s in "Hollowpox" start below the "O"s. This gives a slightly deranged and chaotic feeling, almost as if the letters are moving. The x-height is quite low, and not very consistent. There are three "O"s in the title, and the last one is much smaller than the other two, probably to make it fit between the "P" and "X" without taking up too much space. This also contributes to the sense of movement and life, because the letters are adapting to each other. 
 
-The voice of the typeface is something of a weird mix I would describe as casual luxury. It's fun and elegant at the same time, which is something that sounds almost a bit contradictory, but here it's done really well in my opinion. Like, you can definetely tell it wasn't a child who drew those letters. They are too well-crafted and deliberate for that. But at the same time they are not as serious and rigid as some of the more "adult" literary fiction novels or academic texts you can find out there. 
+The voice of the typeface is something of a weird mix I would describe as casual luxury. It's fun and elegant at the same time, which is something that sounds almost a bit contradictory, but here it's done really well in my opinion. Like, you can definetely tell it wasn't a child who drew those letters. They are too well-crafted and deliberate for that. But at the same time they are not as serious and rigid as some of the more "adult" literary fiction novels or academic texts you can find out there. It is snas serif, although some of the letters bend slightly at the top or bottom which can be a bit reminiscent of serifs. That's probably another element that contributes to that slightly luxurious vibe.   
 
-Script, but bolder and more emphatic than ususal script
+I think the title of "Hollowpox" would in this case be classified as Script, even though it's bolder and more emphatic than ususal script. 
 
  
 
