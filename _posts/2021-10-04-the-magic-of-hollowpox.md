@@ -32,11 +32,11 @@ Not having the letters connected is probably a concious choice the designers mad
 
 ### Middle Grade fantasy
 
-The typography is a part of the branding of the series. I'm not completely certain, but it the title's typeface might be created just for the Nevermoor books. Like the typeface of Harry Potter, the most famous book series in the world, and certainly the most famous middle grade fantasy, this is recognisable as the "Morrigan Crow"-typeface, though it might not be as original and unique as Harry Potter once was, with it's lightning shaped letters. 
+The typography is a part of the branding of the series. I'm not completely certain, but it the title's typeface might be created just for the Nevermoor books. Like the typeface of Harry Potter, the most famous book series in the world, and certainly the most famous middle grade fantasy, this is recognisable as the "Morrigan Crow"-font, though it might not be as original and unique as Harry Potter once was, with it's lightning shaped letters. 
 
 ![The typeface of Harry Potter](../uploads/img_2022.jpg)
 
-Middle Grade - similar to others 
+However, if you go to the Middle Grade shelves in any bookshop, you will probably find that a lot of Middle Grade fantasy novels have a very similar kind of typeface on their spines and covers. This is perhaps because that kind of style is very popular and trendy in the MG publishing world at the moment. I will not be surprised if in twenty years we can look back on the styling of the title of Hollowpox and say that it was a 
 
 Meanwhile, adult and YA fantasy novels usually get a different kind of typography on their cover. It's usually not meant to be as fun, but rather more dramatic and a bit darker. 
 
