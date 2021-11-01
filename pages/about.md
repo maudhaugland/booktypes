@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About
+title: About Booktypes
 image: ../uploads/banner2.png
 subtitle: ""
 permalink: /about/
