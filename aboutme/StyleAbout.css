@@ -1,0 +1,15 @@
+h1 {
+    font-family: libre baskerville;
+}
+
+p {
+    color:black; 
+    font-family: source serif pro;
+}
+
+body {
+   margin-left: 20%;
+   margin-right: 10%;
+   max-width: 600px;
+}
+
