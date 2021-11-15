@@ -14,9 +14,11 @@ How can a book cover look intimate and personal when it is made to sell thousand
 
 ![]()
 
+### Personal?
+
 *The Diary of a Bookseller* by Shaun Bythell was published by Profile Books in 2017. It is the author's diary about, you might have guessed it, working as a bookseller in a small bookshop in Wigtown, Scotland. It is said to be 'warm, witty and laugh-out-loud funny' if one should trust the words of the *Daily Mail*. 
 
-The typeface of the title looks almsot like its written with a marker pen 
+The typeface of the title looks almsot like its written with a marker pen - condenced, but spaced, capitals, - like the posters you made in school - rather charming  
 
 ### Diaries 
 
