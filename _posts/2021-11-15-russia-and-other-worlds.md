@@ -18,11 +18,15 @@ I'd say that the first association that springs to mind when I see this cover is
 
 ![](../uploads/stacey-zinoveva-lrvdekcwofa-unsplash.jpg "Photo by Stacey Zinov, Unsplash")
 
+### An imitation of the Cyrillic alphabeth
+
 Very tall and condensed, bold, capitals, slopes upwards
 
 Analysis
 
 ![](../uploads/julia-kadel-ymulswibc3i-unsplash.jpg "Photo by Julia Kadel on Unsplash")
+
+### A country in letter form
 
 Translated fiction - try to look like their country
 
