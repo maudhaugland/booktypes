@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reputation
+title: "A Modern Jane Austen "
 date: 2021-10-27T16:13:15.383Z
 image: ../uploads/diogo-nunes-7eccyq-zopc-unsplash.jpg
 title_color: "#ffffff"
