@@ -15,7 +15,7 @@ Introduction
 
 The Diary of a Bookseller by XXX was published by XX in XXXX. It is the author's diary about, you might have guessed it, working as a bookseller in a small bookshop in XX. It is said to be 
 
-The typeface of the title is 
+The typeface of the title looks almsot like its written with chalk on a blackboard
 
 Genre - Diary, non-fiction, personal story
 
