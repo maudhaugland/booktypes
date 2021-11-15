@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Diary of a Bookseller
-date: 2021-11-15T09:39:00.177Z
+date: 2021-11-15T17:31:47.174Z
+image: ../uploads/james-barker-rkk_nvooj6y-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
@@ -9,13 +10,15 @@ tags:
   - Design
   - Publishing
 ---
-Introduction
+How can a book cover look intimate and personal when it is made to sell thousands, or perhaps even millions, of copies? 
 
 ![]()
 
-The Diary of a Bookseller by XXX was published by XX in XXXX. It is the author's diary about, you might have guessed it, working as a bookseller in a small bookshop in XX. It is said to be 
+*The Diary of a Bookseller* by Shaun Bythell was published by Profile Books in 2017. It is the author's diary about, you might have guessed it, working as a bookseller in a small bookshop in Wigtown, Scotland. It is said to be 'warm, witty and laugh-out-loud funny' if one should trust the words of the *Daily Mail*. 
 
-The typeface of the title looks almsot like its written with chalk on a blackboard
+The typeface of the title looks almsot like its written with a marker pen
+
+### Diaries 
 
 Genre - Diary, non-fiction, personal story
 
