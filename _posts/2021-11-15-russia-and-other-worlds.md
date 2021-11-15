@@ -18,7 +18,7 @@ I'd say that the first association that springs to mind when I see this cover is
 
 ![](../uploads/stacey-zinoveva-lrvdekcwofa-unsplash.jpg "Photo by Stacey Zinov, Unsplash")
 
-### An imitation of the Cyrillic alphabeth
+### An imitation of the Cyrillic alphabet
 
 Very tall and condensed, bold, capitals, slopes upwards
 
