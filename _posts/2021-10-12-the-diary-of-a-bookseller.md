@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Diary of a Bookseller
-date: 2021-10-18T08:34:32.464Z
+date: 2021-11-15T09:39:00.177Z
 title_color: "#ffffff"
 comments: false
 tags:
@@ -11,8 +11,12 @@ tags:
 ---
 Introduction
 
-Description
+![]()
+
+The Diary of a Bookseller by XXX was published by XX in XXXX. It is the author's diary about, you might have guessed it, working as a bookseller in a small bookshop in XX. It is said to be 
+
+The typeface of the title is 
 
 Genre - Diary, non-fiction, personal story
 
-*The Diary of a Young Girl* by Anne Frank is probaby the most famous published diary of the past century. Even though the tone is much darker, as expected of a story from the second world war, it is still in the same genre as *The Diary of a Bookseller* as it is an edited diary. SAMMENLGN
+*The Diary of a Young Girl* by Anne Frank is probaby the most famous published diary of the past century. Even though the tone is much darker, as expected of a story from the second world war, it is still in the same genre as *The Diary of a Bookseller* as it is an edited, published diary. SAMMENLGN
