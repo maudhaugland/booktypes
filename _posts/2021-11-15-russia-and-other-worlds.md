@@ -22,11 +22,13 @@ I'd say that the first association that springs to mind when I see this cover is
 
 Very tall and condensed, bold, capitals, slopes upwards
 
+Like the Cyrillic alphabet 
+
 Analysis
 
 ![](../uploads/julia-kadel-ymulswibc3i-unsplash.jpg "Photo by Julia Kadel on Unsplash")
 
-### A country in letter form
+### A country in the shape of a letter
 
 Translated fiction - try to look like their country
 
