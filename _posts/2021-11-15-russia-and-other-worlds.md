@@ -20,13 +20,9 @@ I'd say that the first association that springs to mind when I see this cover is
 
 ### An imitation of the Cyrillic alphabet
 
-The typeface consists of very tall and condensed, bold letters, all in capitals. This fits with the Russian stereotypical image of being tough, strong and bold. There's nothing timid, soft or feminine about it. 
+The typeface consists of very tall and condensed, bold letters, all in capitals. This fits with the Russian stereotypical image of being though, strong and bold. There's nothing timid, soft or feminine about it, just like how the Russian government has presented itself the last hundred years. The typeface is very clean which perhaps comes from being a sans serif typeface. 
 
- slopes upwards
-
-Like the Cyrillic alphabet 
-
-Analysis
+Furthermore, some of the letters slope upwards instead of going straight across, like in the 'H' and 'R's for example, which makes it look like the Russian or Cyrillic alphabet in my opinion. The typeface looks kind of similar to the sign on the building pictured above. There's no doubt the designer had Russia in the forefront of their mind every second while designing this cover. 
 
 ![](../uploads/julia-kadel-ymulswibc3i-unsplash.jpg "Photo by Julia Kadel on Unsplash")
 
