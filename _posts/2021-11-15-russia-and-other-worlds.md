@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Russia and Other Worlds
-date: 2021-11-15T18:01:10.116Z
+date: 2021-11-22T15:19:15.098Z
 image: ../uploads/michael-parulava-l4jrg4c7928-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
 How much has the communist Sovjet era shaped our view of the modern Russian aesthetic? Why do certain typefaces just look Russian? And why do covers of translated books so often try to imitate our perception of the country the book is from? 
 
-![]()
+![](../uploads/20211122171309_img_3211.jpg "Other Worlds: Peasants, Pilgrims, Spirits, Saints by Teffi")
 
 ### Tsars and Communists
 
@@ -28,7 +28,7 @@ Furthermore, some of the letters slope upwards instead of going straight across,
 
 ### A country in the shape of a letter
 
-Translated fiction - try to look like their country
+Something that I have noticed is that a lot of publishers wants the typeface on the cover of translated fiction try to look like the country or area that the book is originally from. Like they want to set the mood almost, as if a country is a 
 
 Russia - Sovjet and today
 
