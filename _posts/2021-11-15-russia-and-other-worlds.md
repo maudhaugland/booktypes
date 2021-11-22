@@ -6,7 +6,7 @@ image: ../uploads/michael-parulava-l4jrg4c7928-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-How much has the communist Sovjet era shaped our view of the modern Russian aesthetic? Why do certain typefaces just look Russian? And why do covers of translated books so often try to imitate our perception of the country the book is from? 
+How much has the communist Soviet era shaped our view of the modern Russian aesthetic? Why do certain typefaces just look Russian? And why do covers of translated books so often try to imitate our perception of the country the book is from? 
 
 ![](../uploads/20211122171309_img_3211.jpg "Other Worlds: Peasants, Pilgrims, Spirits, Saints by Teffi")
 
@@ -14,7 +14,7 @@ How much has the communist Sovjet era shaped our view of the modern Russian aest
 
 *Other Worlds: Peasants, Pilgrims, Spirits, Saints* is a collection of short stories written by a Russian woman called Teffi. They were origianlly published between 1916 and 1952 and enjoyed by both Tsar Nicholas II and Lenin alike, and in 2021 they were finally translated into English and published by Pushkin Press in this short story collection. 
 
-I'd say that the first association that springs to mind when I see this cover is Russia. And that's hardly a coincidence. Partly because of all the red, the vintage vibe and the distinctively Eastern European roof on the house with chicken legs (a reference to an old Russian fairy tale). However, the typography chosen for the title of this cover has undoubtedly a major part in it as well. 
+I'd say that the first association that springs to mind when I see this cover is Russia. And that's not a coincidence. Partly because of all the red, commonly associated with communism and Soviet Russia, the vintage vibe and the distinctively Eastern European roof on the house with chicken legs (a reference to an old Russian fairy tale). However, the typography chosen for the title of this cover has undoubtedly a major part in it as well. 
 
 ![](../uploads/stacey-zinoveva-lrvdekcwofa-unsplash.jpg "Photo by Stacey Zinov, Unsplash")
 
@@ -30,6 +30,6 @@ Furthermore, some of the letters slope upwards instead of going straight across,
 
 Something that I have noticed is that a lot of publishers wants the font on the cover of translated fiction try to look like the country or area that the book is originally from. Almost like they want to set the mood. They apply the stereotypical associations when choosing or designing a typeface. So for Russia it's bold, cold and slightly like the Cyrillics, while French books often get sleek and elegant fonts, Japan gets either hypermodern or timid serifed fonts, and Sweden gets kind of casual chalk-on-blackboard letters. This does not apply to all translated fiction though, just a fair amount.  
 
-Russia - Sovjet and today
+Russia - Soviet and today
 
 End
