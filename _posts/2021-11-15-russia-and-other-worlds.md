@@ -28,7 +28,7 @@ Furthermore, some of the letters slope upwards instead of going straight across,
 
 ### A country in the shape of a letter
 
-Something that I have noticed is that a lot of publishers wants the typeface on the cover of translated fiction try to look like the country or area that the book is originally from. Like they want to set the mood almost, as if a country is a 
+Something that I have noticed is that a lot of publishers wants the font on the cover of translated fiction try to look like the country or area that the book is originally from. Almost like they want to set the mood. They apply the stereotypical associations when choosing or designing a typeface. So for Russia it's bold, cold and slightly like the Cyrillics, while French books often get sleek and elegant fonts, Japan gets either hypermodern or timid serifed fonts, and Sweden gets kind of casual chalk-on-blackboard letters. This does not apply to all translated fiction though, just a fair amount.  
 
 Russia - Sovjet and today
 
