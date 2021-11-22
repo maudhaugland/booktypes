@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A Modern Jane Austen "
-date: 2021-10-27T16:13:15.383Z
-image: ../uploads/diogo-nunes-7eccyq-zopc-unsplash.jpg
+title: A Modern Jane Austen Novel
+date: 2021-11-22T16:43:13.466Z
+image: ../uploads/elizabeth-jamieson-edabbecniem-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
@@ -20,8 +20,12 @@ When you think about Jane Austen's universe of balls, sisters, suitors and the E
 
 Bold and unexpected - stand out among the swirly Sript typefaces. 
 
+![](../uploads/lucy-claire-sn_euel-0-y-unsplash.jpg "Photo by Lucy Claire, Unsplash")
+
 ## Historical fiction
 
 Regency era - Jane Austen
 
 Modern twist - feminist?
+
+![](../uploads/alexandra-dementyeva-ndch-wxzwgo-unsplash.jpg "Photo by Alexandra Dementyeva, Unsplash")
