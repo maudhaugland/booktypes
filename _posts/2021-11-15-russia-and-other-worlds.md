@@ -5,8 +5,13 @@ date: 2021-11-22T15:19:15.098Z
 image: ../uploads/michael-parulava-l4jrg4c7928-unsplash.jpg
 title_color: "#ffffff"
 comments: false
+tags:
+  - Design
+  - Books
+  - Publishing
+  - Culture
 ---
-How much has the communist Soviet era shaped our view of the modern Russian aesthetic? Why do certain typefaces just look Russian? And why do covers of translated books so often try to imitate our perception of the country the book is from? 
+Why do certain typefaces just look Russian? And why do covers of translated books so often try to imitate our perception of the country the book is from? 
 
 ![](../uploads/20211122171309_img_3211.jpg "Other Worlds: Peasants, Pilgrims, Spirits, Saints by Teffi")
 
@@ -28,8 +33,8 @@ Furthermore, some of the letters slope upwards instead of going straight across,
 
 ### A country in the shape of a letter
 
-Something that I have noticed is that a lot of publishers wants the font on the cover of translated fiction try to look like the country or area that the book is originally from. Almost like they want to set the mood. They apply the stereotypical associations when choosing or designing a typeface. So for Russia it's bold, cold and slightly like the Cyrillics, while French books often get sleek and elegant fonts, Japan gets either hypermodern or timid serifed fonts, and Sweden gets kind of casual chalk-on-blackboard letters. This does not apply to all translated fiction though, just a fair amount.  
+Something that I have noticed is that a lot of publishers wants the font on the cover of translated fiction try to look like the country or area that the book is originally from. Almost like they want to set the mood. They apply the stereotypical associations when choosing or designing a typeface. So for Russia it's bold, cold and slightly like the Cyrillic letters, while French books often get sleek and elegant fonts, Japan gets either hypermodern or timid serifed fonts, and Sweden gets kind of casual chalk-on-blackboard letters. This does not apply to all translated fiction though, just a fair amount.  
 
-Russia - Soviet and today
+The reason why they do this is probably because they want the book cover to radiate their country of origin to readers who have a special interest in that country or culture. For example, Japanese translated fiction has grown quite a lot the last couple of years and some people will buy a book just because it is from Japan, without really caring about what it's about. Having a stereotypically "Japanese" typeface on the cover can really help make the book stand out to the reader so it's easy to spot and therefore it will sell more. Win-win, right? 
 
-End
+In many ways, yes, but some people would argue that
