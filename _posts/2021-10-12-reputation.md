@@ -18,7 +18,11 @@ When you think about Jane Austen's universe of balls, sisters, suitors and the E
 
 *Reputation* by Lex Croucher is a historical fiction published in 2021 by Zafre. It's said to be a mix of *Mean Girls* and Jane Austen, a romcom from the Regency-era with great friendships and drunken nights out, perfect for fans of the giant Netflix hit, *Bridgerton*. 
 
-As you can see on the photo above, Reputation is quite bold and rather unexpected. It really stands out among the swirly Sript typefaces of the historical fiction genre, especially those who are also categorised as "women's fiction". 
+As you can see on the photo above, the title on Reputation is quite bold and rather unexpected. It really stands out among the swirly Sript typefaces of the historical fiction genre, especially those who are also categorised as "women's fiction". 
+
+Reputation is a historical fiction novel written for the Gen-Z and Millennials, not middle aged people and grandmas (though that depends on your grandma, of course). This is really reflected in the typeface on the cover. It kind of reminds me of a streetwear fashion brand or even the logo of a toothpaste company. 
+
+
 
 ![](../uploads/lucy-claire-sn_euel-0-y-unsplash.jpg "Photo by Lucy Claire, Unsplash")
 
@@ -28,6 +32,6 @@ Regency era - Jane Austen
 
 Modern twist - feminist? diverse, by a non-binary person. 
 
-Gen-Z, Millennials, new adult (not YA), not middle aged people and grandmas. 
+
 
 ![](../uploads/alexandra-dementyeva-ndch-wxzwgo-unsplash.jpg "Photo by Alexandra Dementyeva, Unsplash")
