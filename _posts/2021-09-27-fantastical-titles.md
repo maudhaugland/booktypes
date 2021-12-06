@@ -25,7 +25,7 @@ The designer chose a very swirly, elegant and romantic font for the title. It ha
 
 Perhaps the font conveys the luxury by simply looking like it is handwritten. And not written by a child, but by someone who uses calligraphy to write beautiful letters to friends and acquaintances, inviting them to grandiose dinner parties. It looks old fashioned, and rich. 
 
-
+![](../uploads/david-nitschke-pegxjw_1you-unsplash.jpg "Photo: David Nitschke, Unsplash")
 
 ### A Gothic modern classic
 
