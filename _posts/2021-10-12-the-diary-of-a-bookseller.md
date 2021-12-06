@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Diary of a Bookseller
-date: 2021-11-15T17:31:47.174Z
+date: 2021-12-06T11:27:05.973Z
 image: ../uploads/james-barker-rkk_nvooj6y-unsplash.jpg
 title_color: "#ffffff"
 comments: false
