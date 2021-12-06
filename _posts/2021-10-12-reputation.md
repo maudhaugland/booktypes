@@ -32,11 +32,11 @@ It's similar to the popular Swiss typeface, Helvetica, although the capital "I" 
 
 ![](../uploads/lucy-claire-sn_euel-0-y-unsplash.jpg "Photo by Lucy Claire, Unsplash")
 
-## Bridgerton
+## Bridgerton - a heavy inspiration
 
 Even though *Reputation* might not be very similar to other historical fiction novels design-wise, it certainly plays on its likeness to a certain Netflix success. *Bridgerton* has been viewed by at least 82 million people all over the world, according to The Hollywood Reporter, and as it's also set in Regency era England, I thought it was actually quite clever to make Reputation deliberately matching. Just look at the poster for the TV show, does it ring any bells? 
 
-It's not just the wisterias framing the people posing in the middle, but the styling of the title on the cover of *Reputation* is at least partly inspired by *Bridgerton*'s. 
+It's not just the wisterias framing the people posing in the middle, but the styling of the title on the cover of *Reputation* is definitely inspired by *Bridgerton*'s. Bold, low contrasted and modern. The "N"s are sharp, the "O"s are circular, the "R"s look similar, although the "R" in Reputation is a tad bit more condensed I'd say. And of course, the "I" in Bridgerton is unserifed. This is perhaps becuase it wants to look somewhat elegant too, which is not, I think, one of *Reputation*'s main goals. 
 
 
 
