@@ -38,8 +38,10 @@ Even though *Reputation* might not be very similar to other historical fiction n
 
 It's not just the wisterias framing the people posing in the middle, but the styling of the title on the cover of *Reputation* is definitely inspired by *Bridgerton*'s. Bold, low contrasted and modern. The "N"s are sharp, the "O"s are circular, the "R"s look similar, although the "R" in Reputation is a tad bit more condensed I'd say. And of course, the "I" in Bridgerton is unserifed. This is perhaps becuase it wants to look somewhat elegant too, which is not, I think, one of *Reputation*'s main goals. 
 
-
+Furthermore, the x-height in *Bridgerton* is a bit higher than in *Reputation,* if we were to judge on the "E" and "B". Where the distance to the middle arm in the "E" is identical in *Reputation*, it is slightly longer from the bottom to the middle in *Bridgerton*. In the "B" we can see that the bottom bubble is slightly larger than the top.  This is perhaps to create a bit more interest on *Bridgerton*'s side, because otherwise the type could have been a bit *too* plain and simple. That is perhaps the same reason why they serifed the "I" in *Reputation* too. 
 
 ![](../uploads/mv5byjixmzzhmtmtndq1mi00otmwltk2m2ityza0ymnjndflotdhxkeyxkfqcgdeqxvymtkxnjuynq-._v1_.jpg "Bridgerton on Netflix. Photo: IMBD.")
+
+
 
 ![](../uploads/alexandra-dementyeva-ndch-wxzwgo-unsplash.jpg "Photo by Alexandra Dementyeva, Unsplash")
