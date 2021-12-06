@@ -25,6 +25,8 @@ The designer chose a very swirly, elegant and romantic font for the title. It ha
 
 Perhaps the font conveys the luxury by simply looking like it is handwritten. And not written by a child, but by someone who uses calligraphy to write beautiful letters to friends and acquaintances, inviting them to grandiose dinner parties. It looks old fashioned, and rich. 
 
+
+
 ### A Gothic modern classic
 
 I would say that the script-like typography we find on the cover of *Rebecca* is a typeface we usually associate with historical fiction and romance novels. The association to letterwriting is probably a big reason for that. But is Rebecca a romantic historical novel? Well, sort of. There is a romance and it is a book from the 1930s set on a grand estate in Cornwall, but the story is much darker than the font on its own would have been able to convey, with ghosts and murder and a little bit of madness. 
@@ -34,6 +36,8 @@ However, when you look at the cover as a whole, the romantic font of the title d
 Rebecca is usually classified as a Gothic modern classic. But what does that mean? Well, it means that it was written and published after 1900 for a start. So "modern" in this context basically means in the last century, which a lot of people wouldn't think was that modern at all. I mean, if a computer is more than ten years old it is practically ancient. Luckily, books can have a much longer life span. And as it is a classic it has been read and loved over and over again from the year it was published until this day. Therefore it is not surprising that the title looks a bit old fashioned, as "old" basically is its genre: classics. 
 
 The Gothic element means that the book probably has ghosts or something other dark and at least slightly superntural force or creature in it, which makes it spooky and dramatic. Think of *Dracula*, *Wuthering Heights* or *Frankenstein*. 
+
+![](../uploads/andy-holmes-y0fka3w4epc-unsplash.jpg "Photo: Andy Holmes, Unsplash")
 
 ### Rebecca through history
 
