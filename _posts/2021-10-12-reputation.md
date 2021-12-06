@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A Modern Jane Austen Novel
+title: A Modern Jane Austen?
 date: 2021-11-23T17:08:32.115Z
-image: ../uploads/elizabeth-jamieson-edabbecniem-unsplash.jpg
+image: ../uploads/alexandra-dementyeva-ndch-wxzwgo-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
@@ -10,7 +10,7 @@ tags:
   - Design
   - Media
 ---
-When you think about Jane Austen's universe of balls, sisters, suitors and the English countryside in the early 19th century, you don't usually think  
+When you think about Jane Austen's universe of balls, sisters, suitors and the English countryside in the early 19th century, you don't usually think that it's very modern. But how would Pride and Prejudice have been if it had been written today? Reputation by Lex Croucher might come close.  
 
 ![](../uploads/20211007150315_img_3062.jpg)
 
@@ -41,7 +41,3 @@ It's not just the wisterias framing the people posing in the middle, but the sty
 Furthermore, the x-height in *Bridgerton* is a bit higher than in *Reputation,* if we were to judge on the "E" and "B". Where the distance to the middle arm in the "E" is identical in *Reputation*, it is slightly longer from the bottom to the middle in *Bridgerton*. In the "B" we can see that the bottom bubble is slightly larger than the top.  This is perhaps to create a bit more interest on *Bridgerton*'s side, because otherwise the type could have been a bit *too* plain and simple. That is perhaps the same reason why they serifed the "I" in *Reputation* too. 
 
 ![](../uploads/mv5byjixmzzhmtmtndq1mi00otmwltk2m2ityza0ymnjndflotdhxkeyxkfqcgdeqxvymtkxnjuynq-._v1_.jpg "Bridgerton on Netflix. Photo: IMBD.")
-
-
-
-![](../uploads/alexandra-dementyeva-ndch-wxzwgo-unsplash.jpg "Photo by Alexandra Dementyeva, Unsplash")
