@@ -28,7 +28,7 @@ At the same time, it is clear that the title isn't *actually* just written out w
 
 ### Diaries
 
-The Diary of a Bookseller is categorised as a memoir by the publisher. Perhaps because once it is published and for the public to read, it ceases to be a diary as we know it although it was its original form. Nonetheless, it is a real story about a real man in a real bookshop, and it is *his* story. 
+*The Diary of a Bookseller* is categorised as a memoir by the publisher. Perhaps because once it is published and for the public to read, it ceases to be a diary as we know it although it was its original form. Nonetheless, it is a real story about a real man in a real bookshop, and it is *his* story. 
 
 *The Diary of a Young Girl* by Anne Frank is probaby the most famous published diary of the past century. Even though the themes are much darker, as expected of a story from the second world war, it is still in the same genre as *The Diary of a Bookseller* as it is an edited, published diary. As Anne Frank's Diary was published in 1947, it has been reprinted and republished in multiple editions throughout the decades all with different typographic choices. I have chosen two of them to look at today. 
 
